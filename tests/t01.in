@@ -1,0 +1,12 @@
+
+int getSomeValue() {
+    a = 10;
+    return something;
+}
+
+int main() {
+    int a;
+    int b;
+    bool c;
+    double d;
+}
